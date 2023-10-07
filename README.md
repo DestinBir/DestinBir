@@ -25,7 +25,7 @@ Hello 👋
  I am obsessed with deriving better solutions from data, especially computer vision models but for now I studying it.
  Welcome to my small world where I show you some of projects I realised.
 
- I am currently working on my own teaching plateforme: (https://cga-blog.vercel.app) and also making growth my career.
+ I am currently working on my own teaching plateforme: https://cga-blog.vercel.app and also making growth my career.
  So follow me on my socials to learn more about this.
 </p>
  - ⚡ Fun fact: I love teaching, more when I teach kids and also make food. 😄If I could, I'd love to work as a Machine Learning Engineer for Space X. 
@@ -36,9 +36,10 @@ Hello 👋
 
 
 ### 🛠️: Skills:
-- **Proficient:** Python, Django, Photoshop
+- **Proficient:** Python, Photoshop
 - **Moderate:** SQL, Java, Backend, Machine learning
 - **Database:** SQLite, MySQL, PostgreSQL
+- **Backend Framework:** Django, Django-Rest, Fast API
 
 ---
 <div>
@@ -49,6 +50,7 @@ Hello 👋
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinBir&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njuci&show_icons=true&locale=en&layout=compact" alt="njuci" />
 
 </br>
  
