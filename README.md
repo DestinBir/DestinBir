@@ -59,13 +59,14 @@ I'm **Destin Biringanine**, a dedicated **Python Backend Developer** and **AI en
 
 ### 🧰 Skills & Technologies
 
-- **Languages**: Python, Java, SQL, JavaScript, Bash
+- **Languages**: Python, SQL, JavaScript, Bash
 - **Frameworks**: Django, DRF, FastAPI, Flask
-- **Frontend**: HTML5, CSS3, Bootstrap, JS
-- **AI/ML**: NumPy, Pandas, Scikit-Learn, OpenCV, TensorFlow (base)
+- **Frontend**: HTML5, CSS3, Bootstrap, JS, Express.js
+- **AI/ML**: NumPy, Pandas, Scikit-Learn, OpenCV, TensorFlow, PyTorch
+- **Blockchain**: Solidity, Web3.js, Ethereum, Smart Contracts
 - **Databases**: PostgreSQL, MySQL, SQLite, MongoDB
 - **DevOps**: Git, Docker, GitHub, GitLab, Linux
-- **Other**: Photoshop, Firebase, REST APIs, Streamlit
+- **Other**: Photoshop, Firebase, REST APIs, Streamlit, Celery, Redis
 
 ---
 
@@ -75,6 +76,7 @@ I'm **Destin Biringanine**, a dedicated **Python Backend Developer** and **AI en
 - Develop **AI solutions** for real-world problems.
 - Mentor and empower the next generation of tech leaders in Africa.
 - Expand **CodeGrowthAlive** to reach more learners and professionals.
+- Contribute to open-source projects that make a difference.
 
 ---
 
